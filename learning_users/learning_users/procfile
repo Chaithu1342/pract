@@ -1,1 +1,1 @@
-web: gunicorn learning_users.wsgi
+web: gunicorn basic_app.wsgi
